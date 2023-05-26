@@ -16,6 +16,6 @@ A community sourced list of non-KYC options for Solana-Fiat on and off ramps.
 
 ## Other crypto
 
-- 🟢 **Bisq** | https://bisq.network
+- 🟢 **Bisq** | https://bisq.network | an open-source desktop application that allows you to buy and sell bitcoin in exchange for national currencies, or alternative cryptocurrencies
 - 🟢 **hodlhodl** | https://hodlhodl.com | P2P Bitcoin swap network
 - 🟢 **web3privacy** | https://github.com/web3privacy/web3privacy | github research project aimed at building a culture of privacy industry in web3
