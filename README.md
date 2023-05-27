@@ -12,7 +12,7 @@ A community sourced list of non-KYC options for Solana-Fiat on and off ramps.
 
 ## Cross chain
 
-- 🟢 **Atomic Wallet** | https://atomicwallet.io | switch crypto between a variety of tokens
+- 🟢 **Atomic Wallet** | https://atomicwallet.io | switch Solana between a variety of tokens
 
 ## Other crypto
 
