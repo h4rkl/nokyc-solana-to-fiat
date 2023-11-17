@@ -4,6 +4,10 @@ A community sourced list of non-KYC options for Solana-Fiat on and off ramps.
 
 [More Info](./INFO.md)
 
+## Solana DEX
+
+- 🟢 **Jupiter** | https://jup.ag | Solana exchange aggregator for optimal swap routes and pricing
+
 ## Solana to Fiat
 
 - 🟠 **Solswipe** | https://solswipe.io |  Solana Debit Card with KYC but based in Laos outside of CRS agreement rules
