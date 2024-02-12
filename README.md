@@ -19,6 +19,8 @@ A community sourced list of non-KYC options for Solana-Fiat on and off ramps.
 - 🟢 **Atomic Wallet** | https://atomicwallet.io | switch Solana between a variety of tokens
 - 🟢 **Matcha** | https://matcha.xyz | Aggregated liquidity, on-chain and off-chain
 - 🟢 **Swapzone** | https://swapzone.io | Aggregates exchanges with many no-kyc swap options
+- 🟢 **Portalbridge** | https://portalbridge.com/ | Wormhole mulltiple currencies
+- 🟢 **Atomiq Exchange** | https://app.atomiq.exchange/scan | Swap BTC to SOL and back
 
 ## Other crypto
 
